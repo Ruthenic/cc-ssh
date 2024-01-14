@@ -1,0 +1,5 @@
+{
+    "hostname": "server",
+    "mirror": false,
+    "shell": "/rom/programs/shell"
+}
